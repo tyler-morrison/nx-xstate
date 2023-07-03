@@ -1,9 +1,11 @@
 {
-  "name": "nx-xstate",
-  "version": "0.0.1",
-  "license": "MIT",
-  "scripts": {},
+  "name": "nx-xstate-monorepo",
+  "description": "A monorepo of Nx plugins that supports development of projects using XState",
+  "homepage": "https://stately.ai",
   "private": true,
+  "scripts": {},
+  "author": "Tyler Morrison <tmorrison@fastmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@nx/eslint-plugin": "16.4.2",
     "@nx/jest": "16.4.2",
