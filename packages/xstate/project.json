@@ -46,7 +46,8 @@
       "options": {
         "lintFilePatterns": [
           "packages/xstate/**/*.ts",
-          "packages/xstate/package.json"
+          "packages/xstate/package.json",
+          "packages/xstate/generators.json"
         ]
       }
     },

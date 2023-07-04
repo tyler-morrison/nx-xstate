@@ -1,0 +1,10 @@
+{
+  "generators": {
+    "init": {
+      "factory": "./src/generators/init/init#xstateInitSchematic",
+      "schema": "./src/generators/init/schema.json",
+      "description": "Initialize the @nx/xstate plugin",
+      "hidden": true
+    }
+  }
+}

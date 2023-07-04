@@ -28,5 +28,6 @@
     "url": "https://github.com/tyler-morrison/nx-xstate/issues"
   },
   "homepage": "https://github.com/tyler-morrison/nx-xstate#readme",
-  "type": "commonjs"
+  "type": "commonjs",
+  "generators": "./generators.json"
 }
