@@ -1,5 +1,32 @@
 {
   "name": "@nx/xstate",
   "version": "0.0.1",
+  "private": false,
+  "description": "The XState plugin for Nx contains generators to easily create data-access libraries within an Nx workspace.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyler-morrison/nx-xstate",
+    "directory": "packages/xstate"
+  },
+  "keywords": [
+    "monorepo",
+    "xstate",
+    "nx",
+    "statechart",
+    "state machine",
+    "finite state machine",
+    "finite automata",
+    "scxml",
+    "state",
+    "interpreter",
+    "CLI"
+  ],
+  "main": "src/index",
+  "author": "Tyler Morrison <tmorrison@fastmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyler-morrison/nx-xstate/issues"
+  },
+  "homepage": "https://github.com/tyler-morrison/nx-xstate#readme",
   "type": "commonjs"
 }
